@@ -1,6 +1,23 @@
-# React + TypeScript + Vite
+# INTERIM Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Branded INTERIM marketing site built with React, TypeScript, Tailwind CSS, and Framer Motion.
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Deployment
+
+This repository is connected to Vercel and deploys automatically on push.
 
 Currently, two official plugins are available:
 
